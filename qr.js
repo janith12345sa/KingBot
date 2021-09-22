@@ -59,4 +59,4 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     await conn.connect();
 }
 
-sewQueen()
+Kingbot ()

@@ -1,11 +1,8 @@
-
-FROM fusuf/whatsasena:latest
-
-RUN git clone https://github.com/ravindu01manoj/QueenSewWhatsappBot /root/QueenSewWhatsappBot
-WORKDIR /root/QueenSewWhatsappBot/
-ENV TZ=Asia/Colombo
+FROM   fusuf/whatsasena:latest
+RUN     git clone https://github.com/https://github.com/janith12345sa/KingBot  /root/KingBot 
+WORKDIR /root/KingBot/ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
 
-CMD ["node", "sew.js"]
+CMD ["node", "king.js"]
     

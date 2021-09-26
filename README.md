@@ -91,7 +91,7 @@ $ `bash <(curl -L https://t.ly/j0CU)`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/janith12345sa/janithsadanuwan)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/janith12345sa/KingBot)
 
 ## 🇱🇰 😈King bot 😈 Features
 

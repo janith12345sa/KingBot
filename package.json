@@ -1,0 +1,24 @@
+{
+  "name": "kingbot",
+  "version": "1.0.0",
+  "description": "king bot whatsapp bot project by janith sadanuwan",
+  "main": "index.js",
+  "scripts": {
+    "test": "kingbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janith12345sa/Kingbot.git"
+  },
+  "keywords": [
+    "whatsappbot",
+    "kingbot",
+    "janithsadanuwan"
+  ],
+  "author": "Janith sadanuwan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/janith12345sa/Kingbot/issues"
+  },
+  "homepage": "https://github.com/janith12345sa/Kingbot#readme"
+}

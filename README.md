@@ -87,7 +87,7 @@ $ `bash <(curl -L https://t.ly/j0CU)`
 `kingbot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
 ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
 ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
-පළමු උපාංගයෙන් ඔබට Queen Amdi Bot install කිරීමට අවශ්‍යයි.`
+පළමු උපාංගයෙන් ඔබට kingbot install කිරීමට අවශ්‍යයි.`
 
 #### 02. Click Deploy button
 

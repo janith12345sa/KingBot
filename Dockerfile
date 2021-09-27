@@ -1,9 +1,9 @@
-FROM   fusuf/whatsasena:latest
-RUN     git clone https://github.com/janith12345sa/KingBot  /root/KingBot 
-WORKDIR /root/KingBot/
-ENV   TZ=Asia/Colombo
+FROM fusuf/whatsasena:latest
+
+RUN git clone https://github.com/BlackAmda/QueenAmdi /root/QueenAmdi
+WORKDIR /root/QueenAmdi/
+ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
 
-CMD ["node", "king.js"]
-    
+CMD ["node", "bot.js"]

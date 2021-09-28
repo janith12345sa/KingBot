@@ -52,7 +52,7 @@ Kingbot යනු WhatsApp සඳහා වන පරිශීලක බොට�
 
 ## 😈kingbot😈  විශේෂාංග
 😈kingbot😈විශේෂාංග මෙන්න.
-<a href="https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05">
+<a href="https://gist.github.com/janith12345sa/e8346e688ac8114cb354ea95ca2a9d87">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>

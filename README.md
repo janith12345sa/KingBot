@@ -1,8 +1,8 @@
 # 😈kingbot😈
 janithsadanuwan whatsapp bot©
 #### Select your language
-  [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/janith12345sa/KingBot/blob/main/Readme.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-blue.svg)](https://github.com/janith12345sa/KingBot/blob/main/README.md)
+  [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-blue.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README-SI.md)
   
 <div align="center">
 
@@ -65,7 +65,7 @@ Kingbot යනු WhatsApp සඳහා වන පරිශීලක බොට�
 > [සිංහල tutorial](https://youtu.be/dcI21VsUg_w)
 
 ## 🔎 king bot  යනු කුමක්ද?
-**Janith sadanuwan ,** WhatsApp උදව් බොට් කෙනකි.
+**kingbot ,** WhatsApp උදව් බොට් කෙනකි.
 
 ## Setup
 
@@ -139,7 +139,7 @@ Janith sadanuwan  Official Youtube Channel : https://youtu.be/FAXqeFuJMaY
 ඔබ ආරක්ෂාව ගැන සැලකිලිමත් වන්නේ නම්, ඔබට එය ඔබේම පරිගණකයකින් install කළ හැකිය. වෙනත් අයෙකු ඔබගේ දත්ත ග්‍රහණය කර ගෙන ඇතැයි ඔබ සිතන්නේ නම්, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
 ### මෙම බොට් ගෙවිය යුතුද?
-**ඇත්ත වශයෙන්ම නැත.** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via wa-078175828
+**ඇත්ත වශයෙන්ම නැත.** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via wa-0788175828
 
 
 

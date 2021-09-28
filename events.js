@@ -19,7 +19,7 @@ function newcmdaddtosew(info, func) {
 
     var infos = {
         fromMe: info['fromMe'] === undefined ? true : info['fromMe'], // Or Sudo
-        onlyGrpSew: info['onlyGrpSew'] === undefined ? false : info['onlyGrpSew'],
+        onlyGrpSew: info['onlyGrpKing'] === undefined ? false : info['onlyGrpKing'],
         onlyPinned: info['onlyPinned'] === undefined ? false : info['onlyPinned'],
         onlyPm: info['onlyPm'] === undefined ? false : info['onlyPm'],
         delownsewcmd: info['delownsewcmd'] === undefined ? true : info['delownsewcmd'],

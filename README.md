@@ -51,14 +51,9 @@ Kingbot යනු WhatsApp සඳහා වන පරිශීලක බොට�
 ```
 
 ## 😈kingbot😈  විශේෂාංග
-😈kingbot😈විශේෂාංග මෙන්න.
+
+  kingbot  විශේෂාංග මෙන්න.
 <a href="https://gist.github.com/janith12345sa/e8346e688ac8114cb354ea95ca2a9d87">
-    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
-
-  </a>
-
-නව යාවත්කාලීන කිරීම් බැලීමට මෙය ක්ලික් කරන්න(2.9v Updates). 
-<a href="https://gist.github.com/BlackAmda/890b6b31fcb8d376d6a68afcb7359324">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>

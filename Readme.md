@@ -1,5 +1,6 @@
 # 😈kingbot😈
 janithsadanuwan whatsapp bot©
+
 #### Select your language
   [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-blue.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README-SI.md)
@@ -50,22 +51,37 @@ Usage is entirely the responsibility of the user. The operating system is not re
 have a fun! 😈kingbot😈 project team
 `` `
 ## 😈kingbot😈 Features
+
 kingbot features here.
+
 <a href="https://gist.github.com/janith12345sa/e8346e688ac8114cb354ea95ca2a9d87">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
     
   </a>
   
   ## 📢 Guide
+  
 > [Public group.](https://chat.whatsapp.com/GIun1hDlRDuFnvXs5wE3pa) 
 
 > [sinhala tutorial](https://youtu.be/dcI21VsUg_w)
+
 ## 🔎 What is a king bot?
+
+
 ** kingbot, ** WhatsApp help bot.
+
+
 ## Setup
+
+
 ### Simple method
+
+
 #### 01. Click Run on Repl.it (Computer users) and Run the qr generator by clicking play button.
+
 [! [Run on Repl.it] (https://repl.it/badge/github/quiec/whatsasena)] (https://replit.com/@janith12345sa/KINGBOTjanith?v=1)
+
+
 
 #### If you are a mobile phone user. You can get the QR code using Termux. (Android only. IOS users must use the repl.it button)
 

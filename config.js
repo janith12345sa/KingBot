@@ -19,9 +19,9 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './sewqueen.db' : proces
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 
 module.exports = {
-    VERSION: 'rs-sew-queen 2.0.0 - Full Control',
-    CHANNEL: 'https://t.me/SewQueen',
-    SESSION: process.env._SEW_QUEEN_SESSION === undefined ? '' : process.env._SEW_QUEEN_SESSION,
+    VERSION: 'kingbot 2.0.0 - Full Control',
+    CHANNEL: 'https://t.me/kingbotjs',
+    SESSION: process.env.kingbot_SESSION === undefined ? '' : process.env.kingbot_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     INBO: process.env.INBO_BLOCK === undefined ? 'false' : process.env.INBO_BLOCK,
     Bad_Word: process.env.BAD_KICK === undefined ? 'false' : process.env.BAD_KICK,

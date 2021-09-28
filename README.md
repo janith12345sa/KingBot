@@ -156,6 +156,7 @@ kingbot  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## Developers
 
+Janithsadanuwan 
 
 https://github.com/janith12345sa
 ## බලපත්රය

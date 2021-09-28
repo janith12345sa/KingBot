@@ -476,24 +476,24 @@ else if (config.LANG == 'SI') {
             var msup = config.NAGRP.split(',');                            
             if(msg.key.remoteJid.includes('-') ? msup.includes(msg.key.remoteJid.split('@')[0]) : msup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
-        if (config.RRBSEW == '94785435462-1625490851') {     
-            var asup = config.RRBSEW.split(',');                            
+        if (config.RRBKing == '94785435462-1625490851') {     
+            var asup = config.RRBKing.split(',');                            
             if(msg.key.remoteJid.includes('-') ? asup.includes(msg.key.remoteJid.split('@')[0]) : asup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
-        if (config.RRDSEW == '94776785357-1626432386') {     
-            var bsup = config.RRDSEW.split(',');                            
+        if (config.RRDKing == '94776785357-1626432386') {     
+            var bsup = config.RRDKing.split(',');                            
             if(msg.key.remoteJid.includes('-') ? bsup.includes(msg.key.remoteJid.split('@')[0]) : bsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
-        if (config.SEWSUPPORT == '94785435462-1627812354') {     
-            var csup = config.SEWSUPPORT.split(',');                            
+        if (config.KingSUPPORT == '94785435462-1627812354') {     
+            var csup = config.KingSUPPORT.split(',');                            
             if(msg.key.remoteJid.includes('-') ? csup.includes(msg.key.remoteJid.split('@')[0]) : csup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
-        if (config.SEWSUPPORT2 == '94785435462-1628835469') {     
-            var dsup = config.SEWSUPPORT2.split(',');                            
+        if (config.KingSUPPORT2 == '94785435462-1628835469') {     
+            var dsup = config.KingSUPPORT2.split(',');                            
             if(msg.key.remoteJid.includes('-') ? dsup.includes(msg.key.remoteJid.split('@')[0]) : dsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
-        if (config.SEWSUPPORT3 == '94785435462-1628835633') {     
-            var esup = config.SEWSUPPORT3.split(',');                            
+        if (config.KingSUPPORT3 == '94785435462-1628835633') {     
+            var esup = config.KingSUPPORT3.split(',');                            
             if(msg.key.remoteJid.includes('-') ? esup.includes(msg.key.remoteJid.split('@')[0]) : esup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
         // ==================== End Blocked Chats ====================

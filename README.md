@@ -169,5 +169,5 @@ https://github.com/janith12345sa
 
 ### Disclaimer
 `WhatsApp` name, එහි වෙනස්කම් සහ ලාංඡනය ෆේස්බුක් හි ලියාපදිංචි වෙළඳ ලකුණු වේ. ලියාපදිංචි වෙළඳ ලකුණ සමඟ අපට කිසිදු සම්බන්ධයක් නැත.
-<div align="center">
+<div align="center">  
 

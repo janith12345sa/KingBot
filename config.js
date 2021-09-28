@@ -33,7 +33,7 @@ module.exports = {
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
     TEXT: process.env.TEXTTEXTTEXT === undefined ? 'SEWS' : process.env.TEXTTEXTTEXT.toUpperCase(),
-    ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'Coded By Ravindu Manoj \n\n Join The Telegrame Group \nt.me/SewQueen\n\n' : process.env.ALIVE_MESSAGE,
+    ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'Coded By Janithsadanuwan  \n\n Join The Telegrame Group \nhttps://t.me/kingbotjs\n\n' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,

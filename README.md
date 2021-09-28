@@ -71,11 +71,6 @@ Kingbot යනු WhatsApp සඳහා වන පරිශීලක බොට�
 
 ### සරල ක්‍රමය
 
-[![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@RavinduManoj/Queen-Sew-QR-Code)
-For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
-
-[![Run on Repl.it](resources/gif/qr-scan.gif?size=40)==
-
 #### 01. Click Run on Repl.it (Computer users) and Run the qr generator by clicking play button.
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@janith12345sa/KINGBOTjanith?v=1)
 

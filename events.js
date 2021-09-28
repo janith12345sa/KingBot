@@ -1,6 +1,6 @@
-/* Codded by @Ravindu Manoj
+/* Codded by @Janithsadanuwan 
 
-Telegram: t.me/RavinduManoj
+Telegram: t.me/JANITH_sadanuwan 
 Facebook: https://www.facebook.com/ravindu.manoj.79
 
 Licensed under the  GPL-3.0 License;

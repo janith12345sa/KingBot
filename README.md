@@ -1,5 +1,7 @@
-# 😈kingbot😈
-janithsadanuwan whatsapp bot©
+# 😈kingbot😈  *whatsapp bot©*
+
+Janithsadanuwan   
+
 #### Select your language
   [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-blue.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README-SI.md)

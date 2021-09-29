@@ -283,6 +283,7 @@
             "TAGALL_DESC": "Tag everyone in the group.",
             "ADMİN": "*I am not an Admin here!*",
             "TAGADMİN": "Tag all group admins."
+             "VOTE_DESC": "To create poll in groups"
         },
         "updater": {
             "UPDATER_DESC": "Check for updates.",

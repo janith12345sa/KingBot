@@ -283,6 +283,7 @@
             "TAGALL_DESC": "කණ්ඩායමේ සිටින සියල්ලන් ටැග් කරයි.",
             "ADMİN": "*මම මෙම කණ්ඩායමේ admin නොවේ!*",
             "TAGADMİN": "Admins ටැග් කිරීමට."
+            "VOTE_DESC": "To create poll in groups'
         },
         "updater": {
             "UPDATER_DESC": "Updates පරීක්ෂා කරයි.",

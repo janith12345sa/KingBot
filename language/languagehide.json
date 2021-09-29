@@ -1,3 +1,0 @@
-const LANG = require("plugins/hideplugins.py")
-
-     run="const.LANG"

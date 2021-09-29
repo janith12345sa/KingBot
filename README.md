@@ -131,7 +131,7 @@ $ `bash <(curl -L https://t.ly/j0CU)`
 | Unvoice|✅|1.3|
 | Web Screenshot Plugin|✅|1.5|
 | Wallpaper Plugin|✅|1.4|
-
+| Free unlimited data (echi file for vpn apps )|✅|1.4|
 Janith sadanuwan  Official Youtube Channel : https://youtu.be/FAXqeFuJMaY
 ## F.A.Q
 නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු සපයන්න;

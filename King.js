@@ -360,7 +360,7 @@ ${chalk.blue.italic('📲 Try To Login WhatsApp... Please Wait...')}`);
             var gb = await getMessage(msg.key.remoteJid);
             if (gb !== false) {
             var Kingbotimage = await axios.get(Kingbot.GDB, { responseType: 'arraybuffer' })
-            await CdKing.sendMessage(msg.key.remoteJid, Buffer.from(Kingbotimage.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴇᴡ ǫᴜᴇᴇɴ'});
+            await CdKing.sendMessage(msg.key.remoteJid, Buffer.from(Kingbotimage.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ 😈kingbot😈'});
             }
             return;
         }
@@ -371,7 +371,7 @@ ${chalk.blue.italic('📲 Try To Login WhatsApp... Please Wait...')}`);
             var gb = await getMessage(msg.key.remoteJid, 'goodbye');
             if (gb !== false) {
                 var Kingbotimage = await axios.get(Kingbot.WLP, { responseType: 'arraybuffer' })
-                await CdKing.sendMessage(msg.key.remoteJid, Buffer.from(Kingbotimage.data), MessageType.image, { caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴇᴡ ǫᴜᴇᴇɴ'});
+                await CdKing.sendMessage(msg.key.remoteJid, Buffer.from(Kingbotimage.data), MessageType.image, { caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ 😈kingbot😈'});
             }
             return;
         } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
@@ -379,7 +379,7 @@ ${chalk.blue.italic('📲 Try To Login WhatsApp... Please Wait...')}`);
             var gb = await getMessage(msg.key.remoteJid);
             if (gb !== false) {
             var Kingbotimage = await axios.get(Kingbot.GDB, { responseType: 'arraybuffer' })
-            await CdKing.sendMessage(msg.key.remoteJid, Buffer.from(Kingbotimage.data), MessageType.image, { caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴇᴡ ǫᴜᴇᴇɴ'});
+            await CdKing.sendMessage(msg.key.remoteJid, Buffer.from(Kingbotimage.data), MessageType.image, { caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ 😈kingbot😈'});
             }
             return;
         }

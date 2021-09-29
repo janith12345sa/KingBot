@@ -1,6 +1,6 @@
 # 😈kingbot😈  *whatsapp bot©*
 
-Janithsadanuwan   
+Janithsadanuwan   <a href="https://github.com/janith12345sa/Janithsadanuwan">*About me*</a>
 
 #### Select your language
   [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README.md)

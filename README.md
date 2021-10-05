@@ -8,7 +8,7 @@ Janithsadanuwan   <a href="https://github.com/janith12345sa/Janithsadanuwan">*Ab
   
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=welcome+To+King+bot+;Created+By+Janith+sadanuwan)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315B6F7&lines=Welcome+to+%F0%9F%98%88kingbot%F0%9F%98%88;Created+By+Janith+Sadanuwan)](https://git.io/typing-svg)
 
  </a>
 

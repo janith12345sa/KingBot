@@ -1,4 +1,4 @@
-FROM  ravindu01manoj/sewqueen:lovegift
+FROM fusuf/whatsasena:latest
 
 RUN git clone  https://github.com/janith12345sa/KingBot.git  /root/KingBot/
 WORKDIR  /root/KingBot/

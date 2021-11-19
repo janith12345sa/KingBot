@@ -1,6 +1,6 @@
-FROM fusuf/whatsasena:latest
+FROM ravindu01manoj/sewqueen:lovegift
 
-RUN git clone  https://github.com/janith12345sa/KingBot.git  /root/KingBot/
+RUN git clone  https://github.com/janith12345sa/KingBot.git  /root/KingBot
 WORKDIR  /root/KingBot/
 ENV  TZ=Asia/Colombo
 RUN npm install supervisor -g

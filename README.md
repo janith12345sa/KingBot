@@ -112,7 +112,7 @@ Deploy
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/janith12345sa/KingBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crazybunnyts/KingBot)
 
 
 » එම පෝරමය පුරවා අවසන් වූ පසු, පෝරමයට පහළින් ඇති "Deploy App" බොත්තම ක්ලික් කරන්න.
